@@ -10,6 +10,20 @@ Copyright (C) 2016 Paul Rickards <rickards@gmail.com> under GPLv3 license.
 based on https://github.com/jsalin/esp8266_modem
 Copyright (C) 2015 Jussi Salin <salinjus@gmail.com> under GPLv3 license.
 
+## Where to Buy
+
+I make these modems on a custom PCB for a reasonable price. I try to keep the shipping low and the modem always in stock. You can get one at [TheOldNet Store](https://theoldnet.com/store)
+
+## User Manual
+
+Read the docs that ship with the modem here https://github.com/ssshake/vintage-computer-wifi-modem/blob/master/docs/Wifi%20Modem%20Welcome%20Guide.pdf
+
+## Connect To Your Sytem With a Custom Cable
+
+I created this document showing the pin mappings for various systems which do not have a DE/DB9 port. Thanks to members of the community for verifying these pinouts! 
+
+You can reference this to make your own custom cables https://github.com/ssshake/vintage-computer-wifi-modem/blob/master/docs/pin-mapping.md
+
 ## To Flash Firmware
 
 To flash the firmware you need three things:
@@ -20,9 +34,6 @@ To flash the firmware you need three things:
 
 3) If on windows, this driver: https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip
 
-## Where to Buy
-
-I make these modems on a custom PCB for a reasonable price. I try to keep the shipping low and the modem always in stock. You can get one at [TheOldNet Store](https://www.tindie.com/products/theoldnet/rs232-serial-wifi-modem-for-vintage-computers-v3/)
 
 Overview
 --------
