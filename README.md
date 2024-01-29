@@ -14,6 +14,12 @@ Copyright (C) 2015 Jussi Salin <salinjus@gmail.com> under GPLv3 license.
 
 I make these modems on a custom PCB for a reasonable price. I try to keep the shipping low and the modem always in stock. You can get one at [TheOldNet Store](https://theoldnet.com/store)
 
+## Manual Flashing
+
+If you need to manually reflash your device, download this zip file. It contains scripts, firmware and instructions for version 4 and 6 of the WIFI modem (version 5 never saw the light of day if you're wondering about the gap). Do not use the files in this repo to flash, they are outdated but people tend to end up here so that's why I'm updating the readme. 
+
+[Firmware Flash Tool](https://theoldnet.com/downloads/theoldnet-customer-flash-tool.zip)
+
 ## User Manual
 
 Read the docs that ship with the modem here https://github.com/ssshake/vintage-computer-wifi-modem/blob/master/docs/Wifi%20Modem%20Welcome%20Guide.pdf
